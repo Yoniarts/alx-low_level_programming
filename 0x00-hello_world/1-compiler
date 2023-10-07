@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c "CFILE" -o "$object_file"
+gcc -c main.c -o main.o
